@@ -1,4 +1,5 @@
 ---
+publish: true
 category: writing
 type: essay
 title: Dirty Minds of English Poets

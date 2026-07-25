@@ -16,10 +16,10 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      title: "Germania One"        # Optional: site title
-      header: "Germania One"       # Headers (H1, H2, H3, etc.)
-      body: "Source Sans Pro"      # Keep body readable
-      code: "IBM Plex Mono"        # Code blocks
+      title: Germania One
+      header: Germania One
+      body: Source Sans Pro
+      code: IBM Plex Mono
     colors:
       lightMode:
         light: "#faf8f8"
@@ -112,9 +112,9 @@ plugins:
   - source: github:quartz-community/fonts
     enabled: true
   - source: github:quartz-community/remove-draft
-    enabled: false
-  - source: github:quartz-community/explicit-publish
     enabled: true
+  - source: github:quartz-community/explicit-publish
+    enabled: false
   - source: github:quartz-community/unlisted-pages
     enabled: true
     options: {}

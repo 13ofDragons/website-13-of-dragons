@@ -1,4 +1,5 @@
 ---
+publish: true
 category: writing
 type: poetry
 title: Every Kiss
