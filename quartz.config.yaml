@@ -16,10 +16,10 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      title: Germania+One
-      header: Germania+One
-      body: Source Sans Pro
-      code: IBM Plex Mono
+      title: "Germania One"
+      header: "Germania One"
+      body: "Source Sans Pro"
+      code: "IBM Plex Mono"
     colors:
       lightMode:
         light: "#faf8f8"
