@@ -113,10 +113,10 @@ plugins:
     enabled: true
     options:
       fontOrigin: googleFonts
-      title: '"Germania One", serif'
-      header: '"Germania One", serif'
-      body: '"Source Sans Pro", sans-serif'
-      code: '"IBM Plex Mono", monospace'
+      title: Germania One
+      header: Germania One
+      body: Inter
+      code: JetBrains Mono
   - source: github:quartz-community/remove-draft
     enabled: true
   - source: github:quartz-community/explicit-publish
