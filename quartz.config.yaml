@@ -159,7 +159,7 @@ plugins:
       position: left
       priority: 50
   - source: github:quartz-community/graph
-    enabled: true
+    enabled: false
     layout:
       position: right
       priority: 10
@@ -226,8 +226,7 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+        Discord Community (Junk Drawer Gamers): https://discord.gg/jdg
   - source: github:quartz-community/recent-notes
     enabled: false
   - source: github:quartz-community/spacer

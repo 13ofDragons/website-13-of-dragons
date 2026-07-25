@@ -1,1 +1,0 @@
-This is where you'll find my writing.
