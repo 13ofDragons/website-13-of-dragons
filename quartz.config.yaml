@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: 13ofDragons.github.io/website-13-of-dragons
+  baseUrl: 13ofdragons.com
   ignorePatterns:
     - private
     - templates
