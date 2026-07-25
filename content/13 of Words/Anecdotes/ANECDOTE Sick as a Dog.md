@@ -1,5 +1,4 @@
 ---
-publish: true
 category: writing
 type: anecdote
 title: Top Ten Ways to Amuse Yourself When You're Sick as a Dog

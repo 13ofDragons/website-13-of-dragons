@@ -1,5 +1,4 @@
 ---
-publish: true
 category: writing
 type: anecdote
 title: Christmas in September

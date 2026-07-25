@@ -1,5 +1,4 @@
 ---
-publish: true
 category: writing
 type: poetry
 title: Clouds in the Sky
