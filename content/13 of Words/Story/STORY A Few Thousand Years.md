@@ -1,9 +1,9 @@
 ---
-category: writing
-type: short-story
+type: writing
+writing type: short-story
 title: A Few Thousand Years
 author: Mike White
-status: completed
+writing status: completed
 tags:
   - fiction
   - fantasy

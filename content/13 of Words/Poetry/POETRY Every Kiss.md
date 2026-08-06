@@ -1,9 +1,9 @@
 ---
-category: writing
-type: poetry
+type: writing
+writing type: poetry
 title: Every Kiss
 author: Mike White
-status: completed
+writing status: completed
 tags:
   - poetry
   - creative-writing

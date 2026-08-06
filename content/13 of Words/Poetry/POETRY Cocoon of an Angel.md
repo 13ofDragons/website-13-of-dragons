@@ -1,9 +1,9 @@
 ---
-category: writing
-type: poetry
+type: writing
+writing type: poetry
 title: Cocoon of an Angel
 author: Mike White
-status: completed
+writing status: completed
 tags:
   - poetry
   - creative-writing

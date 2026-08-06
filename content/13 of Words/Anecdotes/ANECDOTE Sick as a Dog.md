@@ -1,9 +1,9 @@
 ---
-category: writing
-type: anecdote
+type: writing
+writing type: anecdote
 title: Top Ten Ways to Amuse Yourself When You're Sick as a Dog
 author: Mike White
-status: completed
+writing status: completed
 tags:
   - anecdote
   - humor

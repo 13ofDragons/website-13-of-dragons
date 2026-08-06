@@ -1,9 +1,9 @@
 ---
-category: writing
-type: satire
+type: writing
+writing type: satire
 title: Big Round Articulated Interlobe
 author: Mike White
-status: completed
+writing status: completed
 tags:
   - satire
   - creative-writing

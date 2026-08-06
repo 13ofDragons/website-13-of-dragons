@@ -1,9 +1,9 @@
 ---
-category: writing
-type: short-story
+type: writing
+writing type: short-story
 title: Walmart Made Me Do It
 author: Mike White
-status: completed
+writing status: completed
 tags:
   - fiction
   - crime

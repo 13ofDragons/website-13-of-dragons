@@ -1,9 +1,9 @@
 ---
-category: writing
-type: poetry
+type: writing
+writing type: poetry
 title: Clouds in the Sky
 author: Mike White
-status: completed
+writing status: completed
 tags:
   - poetry
   - creative-writing

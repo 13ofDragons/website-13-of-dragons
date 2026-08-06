@@ -1,9 +1,9 @@
 ---
-category: writing
-type: poetry
+type: writing
+writing type: poetry
 title: The Prick
 author: Mike White
-status: completed
+writing status: completed
 themes:
   - betrayal
   - heartbreak

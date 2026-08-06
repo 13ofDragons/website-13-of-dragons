@@ -1,10 +1,9 @@
 ---
-category: writing
-type: anecdote
+type: writing
+writing type: anecdote
 title: Christmas in September
 author: Mike White
 date: 2007
-status: completed
 tags:
   - anecdote
   - humor
@@ -17,7 +16,7 @@ So, we decided to go look for some window units. My daughter, wife, and I put ou
 
 We pull up to Wal-Mart and practically run inside. However, my feet decided to sweat anyway, and for some reason feet don’t like to stay still on wet rubber. It’s quite slick. So, I’ll correct that, we STUMBLED inside of Wal-Mart. We head to the area where the fans and air conditioners are, and in their place, as determined by the marketing genius of the Wal-Mart corporation, are heaters. Little heaters. Big heaters. Skinny heaters. Heaters with remote controls. Heaters that use propane. Heaters that use electricity. If I was in the market for a heater, they’d have it. I ask someone where the air conditioners and fans are. “We don’t have any. But we have Christmas trees on sale.” I hope he was kidding. I love the heat.
 
-We stumble back to the car, footprints of sweat trailing us, and head to Lowe’s. It’s only a block away. “They’ll have air conditioners. They’re Lowe’s. They’re big. They carry more of stuff like that.” At this point I’m wearing a shirt that is purely made of salt water molecules. It has transformed. I’ll call it my “ocean shirt.” So, we walk in and the air conditioner there creates an “iceberg shirt.” I’m now happy. I’m going to get an air conditioner. I walk to where the air conditioners are, and guess what I find? Heaters. Little ones. Big ones. Skinny ones. You know the drill. Of course, an aisle away are Christmas trees. I find someone and ask him where the air conditioners are. “We don’t have any. Want a tree?” I love heat.
+>[!example] We stumble back to the car, footprints of sweat trailing us, and head to Lowe’s. It’s only a block away. “They’ll have air conditioners. They’re Lowe’s. They’re big. They carry more of stuff like that.” At this point I’m wearing a shirt that is purely made of salt water molecules. It has transformed. I’ll call it my “ocean shirt.” So, we walk in and the air conditioner there creates an “iceberg shirt.” I’m now happy. I’m going to get an air conditioner. I walk to where the air conditioners are, and guess what I find? Heaters. Little ones. Big ones. Skinny ones. You know the drill. Of course, an aisle away are Christmas trees. I find someone and ask him where the air conditioners are. “We don’t have any. Want a tree?” I love heat.
 
 So now, I sit at the computer in my renewed “ocean shirt” waiting for Thursday to come. That’s when the air conditioner guys come to fix ours. If they offer me a tree, I’m buying a rifle.
 

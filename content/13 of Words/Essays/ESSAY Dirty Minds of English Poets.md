@@ -1,6 +1,6 @@
 ---
-category: writing
-type: essay
+type: writing
+writing type: essay
 title: Dirty Minds of English Poets
 author: Mike White
 date: 2005-04-19

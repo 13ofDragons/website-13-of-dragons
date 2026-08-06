@@ -1,9 +1,8 @@
 ---
-category: writing
-type: anecdote
+type: writing
+writing type: anecdote
 title: Katrina
 author: Mike White
-status: completed
 tags:
   - anecdote
 ---
