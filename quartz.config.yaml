@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: 13ofdragons.com
+  baseUrl: 13ofDragons.github.io/website-13-of-dragons
   ignorePatterns:
     - private
     - templates
@@ -16,8 +16,7 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      title: Germania One
-      header: Germania One
+      header: Schibsted Grotesk
       body: Source Sans Pro
       code: IBM Plex Mono
     colors:
@@ -111,12 +110,6 @@ plugins:
     order: 92
   - source: github:quartz-community/fonts
     enabled: true
-    options:
-      fontOrigin: googleFonts
-      title: Germania One
-      header: Germania One
-      body: Inter
-      code: JetBrains Mono
   - source: github:quartz-community/remove-draft
     enabled: true
   - source: github:quartz-community/explicit-publish
@@ -166,7 +159,7 @@ plugins:
       position: left
       priority: 50
   - source: github:quartz-community/graph
-    enabled: false
+    enabled: true
     layout:
       position: right
       priority: 10
@@ -233,7 +226,8 @@ plugins:
     enabled: true
     options:
       links:
-        Discord Community (Junk Drawer Gamers): https://discord.gg/jdg
+        GitHub: https://github.com/jackyzha0/quartz
+        Discord Community: https://discord.gg/cRFFHYye7t
   - source: github:quartz-community/recent-notes
     enabled: false
   - source: github:quartz-community/spacer
